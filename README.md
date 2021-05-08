@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @youngboomer
 - 👀 I’m interested in Artificial Intelligence
-- 🌱 I’m currently learning Cloud-Computing
+- 🌱 I’m currently learning Algorithmic Trading
 - 💞️ I’m looking to collaborate on crypto trading.
 
 <!---
